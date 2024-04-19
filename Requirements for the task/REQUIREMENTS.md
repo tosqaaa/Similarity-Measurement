@@ -30,11 +30,17 @@ z - это нормированное расстояние между катег
   
 
 ├ category 1
+
 │   ├ category 1.1
+
 │   └ category 1.2
+
 │       └ category 1.2.1
+
 └ category 2
+
     ├ category 2.1
+
     └ category 2.2
 
 
